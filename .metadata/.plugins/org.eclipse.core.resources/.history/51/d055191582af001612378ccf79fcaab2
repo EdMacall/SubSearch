@@ -5,13 +5,10 @@ public class SubSearch
   public static void Main(String[] args)
   {
 	// find out who wants to go first
-	  // player could choose first, second,  or quit
 	
-	// get player to place his submarines and mine
-	  // player has choose submarine or mine or quit
-	  // and to set location and depth or quit
+	// get player to place his submarines
 	  
-	// place computer's submarines and mine
+	// place computer's submarines
 	  
 	// get the player's move
 	  // find out which ship the player wants to move
@@ -31,10 +28,8 @@ public class SubSearch
 	    // out of depth charges?  Go home
 	    // find out if ship hit a mine
 	    // drop a depth charge where?
-	      // track results of depth charge
 	    // find out if player can fire a torpedo
 	      // ask the player if he would like to fire a torpedo
-	        // track results if player fired torpedo
 	  
 	
   }

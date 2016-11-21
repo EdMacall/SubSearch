@@ -7,11 +7,11 @@ public class SubSearch
 	// find out who wants to go first
 	  // player could choose first, second,  or quit
 	
-	// get player to place his submarines and mine
-	  // player has choose submarine or mine or quit
+	// get player to place his submarines
+	  // player has choose submarine or quit
 	  // and to set location and depth or quit
 	  
-	// place computer's submarines and mine
+	// place computer's submarines
 	  
 	// get the player's move
 	  // find out which ship the player wants to move
