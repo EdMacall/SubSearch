@@ -1,7 +1,0 @@
-package SubSearch;
-
-public class Mine {
-  private x;
-  private y;
-  private location;
-}

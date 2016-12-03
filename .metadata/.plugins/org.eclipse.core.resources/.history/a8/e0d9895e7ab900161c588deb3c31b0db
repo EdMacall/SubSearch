@@ -1,0 +1,11 @@
+package SubSearch;
+
+public class HitMap {
+  // Hit maps serve to remind players which spaces depth charges
+  // have been dropped on and what the results were
+	
+  // 0 indicates that a depth charge has not been dropped here
+  // 1 indicates that a depth charge was dropped here resulting in a direct hit
+  // 2 indicates that a depth charge was dropped here resulting in a near miss
+  // 3 indicates that a depth charge was dropped here resulting in a complete miss
+}

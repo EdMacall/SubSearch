@@ -1,8 +1,0 @@
-package SubSearch;
-
-public class Submarine {
-  private int x;
-  private int y;
-  private int location;
-  private int depth;
-}

@@ -3,12 +3,11 @@ package SubSearch;
 import java.util.Scanner;
 
 
-
 public class SubSearch 
 {
   private static boolean playing;
   
-  public static void Main(String[] args)
+  public static void MainWTF(String[] args)
   {
 	playing = true;
 	Scanner in = new Scanner(System.in);

@@ -1,0 +1,14 @@
+package SubSearch;
+
+public class SubSearchController 
+{
+  public SubSearchController()
+  {
+    
+  }
+
+  public void run()
+  {
+    
+  }
+}
